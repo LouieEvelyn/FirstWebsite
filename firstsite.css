@@ -17,19 +17,6 @@ li
 	font-size: 20px;
 }
 
-ul2
-{
-	list-style-type: circle;
-   	margin: 0;
-    	padding: 0;
-    	overflow: hidden;
-}
-
-li2
-{
-	display: list-item;
-	text-align: center;
-}
 
 li a
 {
