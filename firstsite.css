@@ -17,6 +17,14 @@ li
 	font-size: 20px;
 }
 
+ul2
+{
+	list-style-type: none;
+   	margin: 0;
+    	padding: 0;
+    	overflow: hidden;
+}
+
 li2
 {
 	text-align: center;
