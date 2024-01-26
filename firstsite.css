@@ -54,8 +54,7 @@ h1
 
 .center
 {
-	text-align: center;
-	margin: 25px 25px 50px 50px;
+	margin: auto;
 	font-family: "Courier New", Courier, monospace;
 }
 
