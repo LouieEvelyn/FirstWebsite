@@ -1,4 +1,4 @@
-ulbar 
+ul
 {
     list-style-type: none;
     margin: 25;
@@ -7,7 +7,7 @@ ulbar
     background: #f2c7f1;
 }
 
-libar  
+li 
 {
     float: left;
     display: inline-block;
