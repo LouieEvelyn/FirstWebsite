@@ -27,6 +27,7 @@ ul2
 
 li2
 {
+	display: list-item;
 	text-align: center;
 }
 
