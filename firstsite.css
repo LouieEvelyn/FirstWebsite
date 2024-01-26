@@ -53,9 +53,7 @@ h1
 .img
 {
 	display:block;
-	text-align:center;
-        margin-left: auto;
-        margin-right: auto;
+        margin: 0 auto;
 }
 
 .center
