@@ -42,7 +42,7 @@ h1
 .center
 {
 	display: inline
-	margin: auto;
+	text-align: center;
 	font-family: "Courier New", Courier, monospace;
 }
 
