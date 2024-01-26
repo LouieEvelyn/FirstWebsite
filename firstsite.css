@@ -4,7 +4,7 @@ ul
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background: #000000;
+    background: #f2c7f1;
 }
 
 li 
@@ -27,7 +27,7 @@ li a
 li a:hover
 {
 	background-color: white;
-	color: red;
+	color: #abebbb;
 }
 
 h1
