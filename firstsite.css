@@ -72,20 +72,6 @@ h1
 	font-family: "Courier New", Courier, monospace;
 }
 
-/* Lets your image stick to the left of your text. */
-.left
-{
-    float: left;
-    margin: 15px 53px 15px 53px;
-	clear: left;
-}
-
-.lefts
-{
-    float: left;
-    margin: 15px 25px 15px 30px;
-	clear: left;
-}
 
 .validator
 {
