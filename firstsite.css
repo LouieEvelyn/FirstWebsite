@@ -1,8 +1,6 @@
 ul
 {
     list-style-type: none;
-    margin: 25px;
-    padding: 0px;
     overflow: hidden;
     background: #f2c7f1;
 }
@@ -41,7 +39,6 @@ h1
 
 .center
 {
-	display: block;
 	text-align: center;
 	margin: 25px 25px 50px 50px;
 	font-family: "Courier New", Courier, monospace;
